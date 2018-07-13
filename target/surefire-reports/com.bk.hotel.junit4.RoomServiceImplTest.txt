@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.bk.hotel.junit4.RoomServiceImplTest
--------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0 s - in com.bk.hotel.junit4.RoomServiceImplTest
