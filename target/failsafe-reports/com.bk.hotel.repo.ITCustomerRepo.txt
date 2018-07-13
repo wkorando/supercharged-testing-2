@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.bk.hotel.repo.ITCustomerRepo
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.699 s - in com.bk.hotel.repo.ITCustomerRepo

@@ -1,0 +1,2 @@
+INSERT INTO customers (first_name, last_name, middle_name, suffix) VALUES ( 'John', 'Doe', 'Middle', '');	
+INSERT INTO customers (first_name, last_name, middle_name, suffix) VALUES ( 'Jane', 'Doesf', 'Middleth', '');
